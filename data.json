@@ -6,7 +6,8 @@
     "Status": "Dropped",
     "PlannedDate": "2025-06-09T00:00:00",
     "Remarks": "NewTest",
-    "Deducted": false
+    "Deducted": false,
+    "Approval": "Rejected"
   },
   "materials": [
     {
